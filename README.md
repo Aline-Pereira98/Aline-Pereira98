@@ -6,6 +6,7 @@
 * Me chamo Aline Pereira.
 * Atualmente estudo **Análise e Desenvolvimento de Sistemas.**
 
+Em constante desenvolvimento de minhas habilidades e crescimento profissional, porque, aliás somos eternos aprendizes!
 
 
 #### VALORES
@@ -14,7 +15,7 @@
 * 🧠 Iniciante em mindset.
 
 
-_Sonhar grande e sonhar pequeno da o mesmo trabalho_
+_Sonhar grande e sonhar pequeno dá o mesmo trabalho._
 
 #### COMO ME ALCANÇAR 👇
 

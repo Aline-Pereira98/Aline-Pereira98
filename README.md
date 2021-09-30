@@ -8,6 +8,9 @@
 
 Em constante desenvolvimento de minhas habilidades e crescimento profissional, porque, aliás somos eternos aprendizes!
 
+* Java
+* Banco de dados
+*  UML
 
 #### VALORES
 * 📈 Determinação e foco em resultados.

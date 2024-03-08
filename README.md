@@ -1,26 +1,27 @@
 
 
 
-## Hey 👋
+## Hey guys 👋
 
-* Me chamo Aline Pereira.
-* Atualmente estudo **Análise e Desenvolvimento de Sistemas.**
+* My name is Aline and I live in Brazil. 
+* I have a degree in Systems Analysis and Development**
 
-Em constante desenvolvimento de minhas habilidades e crescimento profissional, porque, aliás somos eternos aprendizes!
+Constantly developing my skills and professional growth, because, in fact, we are eternal learners!
 
-* Java
-* Banco de dados
-*  UML
+* SQL
+* PHP
+* Python
+* HTML
+* CSS
 
-#### VALORES
-* 📈 Determinação e foco em resultados.
-* 🏃‍♀️ Sede em sempre aprender.
-* 🧠 Iniciante em mindset.
+#### VALUES
+* 📈 Determination and focus on results.
+* 🏃‍♀️ Willing to learn.
 
 
-_Sonhar grande e sonhar pequeno dá o mesmo trabalho._
+_Dreaming big and dreaming small takes the same work._
 
-#### COMO ME ALCANÇAR 👇
+#### WHERE TO FIND ME 👇
 
 
 <div>

@@ -4,19 +4,16 @@
 ## Hey guys 👋
 
 * My name is Aline and I live in Brazil. 
-* I have a degree in Systems Analysis and Development**
+* I have a degree in Systems Analysis and Development*
 
-Constantly developing my skills and professional growth, because, in fact, we are eternal learners!
+I have good experience with web development based on agile methodologies and code versioning. 
 
 * SQL
 * PHP
-* Python
+* Laravel
+* Javascript
 * HTML
 * CSS
-
-#### VALUES
-* 📈 Determination and focus on results.
-* 🏃‍♀️ Willing to learn.
 
 
 _Dreaming big and dreaming small takes the same work._

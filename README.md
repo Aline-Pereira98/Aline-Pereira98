@@ -1,28 +1,47 @@
 
 
 
-## Hey guys 👋
+## 👋 Hi, I'm Aline
 
-* My name is Aline and I live in Brazil. 
-* I have a degree in Systems Analysis and Development*
+Fullstack Developer with 3 years of experience building and evolving scalable web applications. I work end-to-end — from database modeling and backend business rules to responsive frontend interfaces.
+I focus on writing clean, maintainable, and scalable code while solving real product problems and delivering business value.
 
-I have good experience with web development based on agile methodologies and code versioning. 
+## 💻 Tech Stack
 
-* SQL
-* PHP
-* Laravel
-* Javascript
-* HTML
-* CSS
+### 🚀 Backend
+- PHP
+- Laravel
+- Node.js
+- RESTful APIs
+- Eloquent ORM
 
+### 🎨 Frontend
+- JavaScript
+- Vue.js
+- HTML5
+- CSS3
+- Bootstrap
+- jQuery
+- AJAX
+- Responsive Design
 
-_Dreaming big and dreaming small takes the same work._
+### 🗄️ Databases
+- MySQL
+- PostgreSQL
+- SQLite
+- MongoDB
+
+## 🌍 Languages
+
+- Portuguese (Native)  
+- English (Intermediate)  
+- Spanish (Basic)  
+
+---
 
 #### WHERE TO FIND ME 👇
 
 
 <div>
-<a href="https://www.linkedin.com/in/aline-rocha-845a2415b/" target=_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white target=_blank"></a>
-<a href="https://www.instagram.com/apereira16/?hl=pt-br" target=_blank><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white target=_blank"></a>
-<a href="mailto:ap_rocha98@hotmail.com" target=_blank><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/aline-rocha-845a2415b/" target=_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>

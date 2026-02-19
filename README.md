@@ -12,7 +12,7 @@ I focus on writing clean, maintainable, and scalable code while solving real pro
 
 <p align="left">
   <a href="https://github.com/Aline-Pereira98">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Aline-Pereira98?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/aline-rocha-845a2415b/" target=_blank>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -64,15 +64,6 @@ I focus on writing clean, maintainable, and scalable code while solving real pro
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=Jira&logoColor=white) 
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aline-Pereira98&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline-Pereira98&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
